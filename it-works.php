@@ -78,7 +78,7 @@
 
 	<div class="footer">
 		<p>Server Software: <?php echo $_SERVER['SERVER_SOFTWARE']; ?> PHP Version: <?php print_r(phpversion());?></p>
-		<a href="https://www.pioneerhost.net/de/wiki/anfang/index" alt="Warum wird mir diese Seite angezeigt?">Warum wird mir diese Seite angezeigt?</a>
+		<a href="" alt="Warum wird mir diese Seite angezeigt?">Warum wird mir diese Seite angezeigt?</a>
 	</div>
 </body>
 </html>
